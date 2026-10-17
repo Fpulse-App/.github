@@ -74,32 +74,38 @@ Examples for 13 languages, React, Next.js, Vue and webhooks are in [**fpulse-exa
 
 ## Works with
 
-**Websites:** <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML"> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=white" alt="React"> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"> <img src="https://img.shields.io/badge/Vue-35495E?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue"> <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress"> <img src="https://img.shields.io/badge/Shopify-5E8E3E?style=flat-square&logo=shopify&logoColor=white" alt="Shopify"> <img src="https://img.shields.io/badge/Webflow-146EF5?style=flat-square&logo=webflow&logoColor=white" alt="Webflow"> <img src="https://img.shields.io/badge/Wix-0C6EFC?style=flat-square&logo=wix&logoColor=white" alt="Wix"> <img src="https://img.shields.io/badge/Squarespace-000000?style=flat-square&logo=squarespace&logoColor=white" alt="Squarespace"> <img src="https://img.shields.io/badge/Google%20Tag%20Manager-246FDB?style=flat-square&logo=googletagmanager&logoColor=white" alt="Google Tag Manager">
-
-**Apps and servers:** <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift"> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin"> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"> <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go"> <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust"> <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white" alt="Ruby"> <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET"> <img src="https://img.shields.io/badge/Java-437291?style=flat-square&logo=openjdk&logoColor=white" alt="Java"> <img src="https://img.shields.io/badge/Elixir-4B275F?style=flat-square&logo=elixir&logoColor=white" alt="Elixir">
-
-**Your tools:** <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square" alt="Slack"> <img src="https://img.shields.io/badge/ClickUp-7B68EE?style=flat-square&logo=clickup&logoColor=white" alt="ClickUp"> <img src="https://img.shields.io/badge/Webhooks-374151?style=flat-square" alt="Webhooks"> <img src="https://img.shields.io/badge/Zapier-FF4F00?style=flat-square&logo=zapier&logoColor=white" alt="Zapier"> <img src="https://img.shields.io/badge/Make-6D00CC?style=flat-square&logo=make&logoColor=white" alt="Make"> <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n">
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/works-with-dark.svg">
+    <img alt="Works with HTML, React, Next.js, Vue, WordPress, Shopify, Webflow, Wix, Squarespace, Google Tag Manager, Swift, Kotlin, Flutter, Python, Node.js, PHP, Go, Rust, Ruby, .NET, Java, Elixir, email, Slack, ClickUp, webhooks, Zapier, Make and n8n" src="assets/works-with-light.svg" width="100%">
+  </picture>
 
 ## Repositories
 
-| Repository | What's inside |
-|------------|---------------|
-| [**fpulse-examples**](https://github.com/Fpulse-App/fpulse-examples) | Widget setups (HTML, React, Next.js, Vue, WordPress plugin), REST API clients in 13 languages, webhook receivers with signature checks |
-| [**feedbackPulse**](https://github.com/ztuskes/feedbackPulse) | iOS and macOS SDK (Swift Package Manager) with a ready-made SwiftUI feedback sheet |
+<p>
+  <a href="https://github.com/Fpulse-App/fpulse-examples">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/repo-fpulse-examples-dark.svg">
+    <img alt="fpulse-examples: feedback widget setups, REST API clients in 13 languages and webhook receivers" src="assets/repo-fpulse-examples-light.svg" width="49%">
+  </picture>
+  </a>
+  <a href="https://github.com/ztuskes/feedbackPulse">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/repo-feedbackPulse-dark.svg">
+    <img alt="feedbackPulse: iOS and macOS SDK with a ready-made SwiftUI feedback sheet" src="assets/repo-feedbackPulse-light.svg" width="49%">
+  </picture>
+  </a>
+</p>
 
 ## Plans
 
-| | Free | Pro | Enterprise |
-|---|:---:|:---:|:---:|
-| Price | $0 | $19 / month | $39 / month |
-| Feedbacks per month | 1,000 | 50,000 | Unlimited |
-| Projects | 1 | 5 | Unlimited |
-| Team members | 1 | 5 | 25 |
-| History | 7 days | 90 days | 365 days |
-| AI analysis, Slack, ClickUp, webhooks | | ✓ | ✓ |
-| Zapier, Make, n8n, SSO | | | ✓ |
+<a href="https://fpulse.app/pricing?utm_source=github&utm_medium=org">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/plans-dark.svg">
+    <img alt="Free $0: 1,000 feedbacks a month. Pro $19 a month: 50,000 feedbacks, AI analysis, Slack, ClickUp and webhooks. Enterprise $39 a month: unlimited feedback, Zapier, Make, n8n and SSO" src="assets/plans-light.svg" width="100%">
+  </picture>
+</a>
 
-Yearly billing: $199 for Pro, $399 for Enterprise. [Start free](https://fpulse.app/auth/register?utm_source=github&utm_medium=org), no credit card needed.
+<p align="center"><a href="https://fpulse.app/auth/register?utm_source=github&utm_medium=org"><b>Start free</b></a>: no credit card needed. Compare every feature on the <a href="https://fpulse.app/pricing?utm_source=github&utm_medium=org">pricing page</a>.</p>
 
 ---
 
