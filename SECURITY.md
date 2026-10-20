@@ -10,7 +10,7 @@ Thank you for helping keep F-Pulse App and its users safe.
 | fpulse.app (hosted dashboard, REST API, feedback widget) | Always the current version |
 | Mac desktop app | 1.0.5 and later :white_check_mark: · older versions :x: |
 | WordPress plugin | 1.0.x :white_check_mark: |
-| iOS / macOS SDK ([ztuskes/feedbackPulse](https://github.com/ztuskes/feedbackPulse)) | Latest release :white_check_mark: |
+| iOS / macOS SDK ([Fpulse-App/feedbackPulse](https://github.com/Fpulse-App/feedbackPulse)) | Latest release :white_check_mark: |
 | Code examples ([fpulse-examples](https://github.com/Fpulse-App/fpulse-examples)) | `main` branch :white_check_mark: |
 
 Security fixes for the hosted service are deployed for everyone at once. For the
