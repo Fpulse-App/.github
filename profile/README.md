@@ -88,10 +88,10 @@ Examples for 13 languages, React, Next.js, Vue and webhooks are in [**fpulse-exa
     <img alt="fpulse-examples: feedback widget setups, REST API clients in 13 languages and webhook receivers" src="assets/repo-fpulse-examples-light.svg" width="49%">
   </picture>
   </a>
-  <a href="https://github.com/Fpulse-App/feedbackPulse">
+  <a href="https://github.com/Fpulse-App/fpulse-ios-sdk">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/repo-feedbackPulse-dark.svg">
-    <img alt="feedbackPulse: iOS and macOS SDK with a ready-made SwiftUI feedback sheet" src="assets/repo-feedbackPulse-light.svg" width="49%">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/repo-fpulse-ios-sdk-dark.svg">
+    <img alt="fpulse-ios-sdk: iOS and macOS SDK with a ready-made SwiftUI feedback sheet" src="assets/repo-fpulse-ios-sdk-light.svg" width="49%">
   </picture>
   </a>
 </p>
